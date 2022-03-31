@@ -10,4 +10,5 @@
    
    
 - [Attention: Sequence 2 Sequence model with Attention Mechanism](https://nsbg.tistory.com/entry/Medium-%EB%B2%88%EC%97%AD-Attention-Sequence-2-Sequence-model-with-Attention-Mechanism)   
-- [Entropy, Cross-Entropy, KL-Divergence](https://nsbg.tistory.com/entry/Medium-%EB%B2%88%EC%97%AD-Entropy-Cross-Entropy-KL-Divergence)
+- [Entropy, Cross-Entropy, KL-Divergence](https://nsbg.tistory.com/entry/Medium-%EB%B2%88%EC%97%AD-Entropy-Cross-Entropy-KL-Divergence)   
+- 추가 예정
