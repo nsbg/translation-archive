@@ -13,4 +13,5 @@
 - [Entropy, Cross-Entropy, KL-Divergence](https://nsbg.tistory.com/entry/Medium-%EB%B2%88%EC%97%AD-Entropy-Cross-Entropy-KL-Divergence)   
 - [Introduction to Stemming and Lemmatization](https://nsbg.tistory.com/entry/Medium-%EB%B2%88%EC%97%AD-Introduction-to-Stemming-and-Lemmatization)   
 - [Word2Vec Research Paper Explained](https://nsbg.tistory.com/entry/%EB%B2%88%EC%97%AD-Word2Vec-Research-Paper-Explained)   
+- [Foundations of NLP Explained Visually: Beam Search, How It Works](https://nsbg.tistory.com/entry/%EB%B2%88%EC%97%AD-Foundations-of-NLP-Explained-Visually-Beam-Search-How-It-Works)   
 - 추가 예정
