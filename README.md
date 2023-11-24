@@ -15,4 +15,6 @@
 - [Word2Vec Research Paper Explained](https://nsbg.tistory.com/entry/%EB%B2%88%EC%97%AD-Word2Vec-Research-Paper-Explained)   
 - [Foundations of NLP Explained Visually: Beam Search, How It Works](https://nsbg.tistory.com/entry/%EB%B2%88%EC%97%AD-Foundations-of-NLP-Explained-Visually-Beam-Search-How-It-Works)   
 - [Micro, Macro & Weighted Averages of F1 Score, Clearly Explained](https://nsbg.tistory.com/entry/%EB%B2%88%EC%97%AD-Micro-Macro-Weighted-Averages-of-F1-Score-Clearly-Explained)   
+- [The History of Open-Source LLMs: Part Ⅰ. Early days](https://nsbg.tistory.com/entry/%EB%B2%88%EC%97%AD-The-History-of-Open-Source-LLMs-Part-%E2%85%A0-Early-days)
+- [The History of Open-Source LLMs: Part Ⅱ. Better Base Models](https://nsbg.tistory.com/entry/%EB%B2%88%EC%97%AD-The-History-of-Open-Source-LLMs-Part-%E2%85%A1-Better-Base-Models)
 - 추가 예정
